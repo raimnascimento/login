@@ -32,10 +32,6 @@ Este projeto ainda está em desenvolvimento. Algumas funcionalidades estão em f
 
 ## Resultado final 
 
-- **Para celulares** 📱: 
-![imagem](result/login-phone.png)
-
-- **Para tablets e desktops** 🖥️:
 ![imagem](result/resultado.png)
 
 
