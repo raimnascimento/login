@@ -7,8 +7,6 @@
 
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
 </head>
 <body class="bg-gray-100 min-h-screen flex items-center justify-center">
 
@@ -59,7 +57,10 @@
 
                     <p id="passwordError" class="text-red-700 font-medium text-xs hidden">As senhas devem ser iguais.</p>
 
-                    <div class="g-recaptcha m-auto" data-sitekey="6Le4p_EqAAAAAP_GpGUc3HGgtLAy3WFETkVuOHFC"></div>
+                    <!-- <div class="g-recaptcha m-auto" data-sitekey="6Le4p_EqAAAAAP_GpGUc3HGgtLAy3WFETkVuOHFC"></div> -->
+                    <!-- reCAPTCHA do Google -->
+                    <div class="g-recaptcha m-auto" data-sitekey="6Lf3iJgrAAAAAPnPLeur56LUcoX1NiD0Xn5dXcl0"></div>
+
 
                     <p class="text-sm text-blue-950">Ao se registrar, você aceita nossos <span class="text-[#f85805] hover:font-medium">termos de uso</span> e nossa <span class="text-[#f85805] hover:font-medium">política de privacidade</span></p>
 
@@ -76,6 +77,8 @@
         </section>
     </main>
     
-    <script src="script.js" defer></script>
+    <script src="./script/script.js" defer></script>
+    <script src="./backend/server.js" defer></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </body>
 </html>
