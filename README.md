@@ -1,4 +1,4 @@
-## Página de Login – Projeto Pessoal
+## Página de Login – Projeto Pessoal 💜
 
 Essa página de login foi desenvolvida por mim, com bastante dedicação e pesquisa. Esse projeto me ensinou desde a organização de código, integração com serviços externos, até boas práticas de design.
 
@@ -29,12 +29,12 @@ Fiquei satisfeita com o resultado e decidi manter esse repositório como uma lem
 
 ## Resultado
 
-[Clique para acessar pelo Vercel](https://login-eight-bay.vercel.app/register.html)
+[Clique para acessar pelo Vercel](https://login-eight-bay.vercel.app/index.html)
 
 ![image](/login.png)
 
 Sinta-se à vontade para testar, clonar ou sugerir melhorias.
-Obrigada por visitar! 💙
+Obrigada por visitar! 💜
 
 
 
